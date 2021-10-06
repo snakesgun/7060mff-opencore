@@ -2,6 +2,8 @@
 
 ## 硬件
 
+> [OptiPlex 7060](https://www.dell.com/support/home/zh-cn/product-support/product/optiplex-7060-desktop/overview)
+
 * 芯片组: [Intel® Q370 Chipset](https://ark.intel.com/content/www/cn/zh/ark/products/133282/intel-q370-chipset.html)
 * 处理器: [英特尔® 酷睿™ i5-8600T 处理器](https://ark.intel.com/content/www/cn/zh/ark/products/129938/intel-core-i5-8600t-processor-9m-cache-up-to-3-70-ghz.html)
 * 网络适配器: [英特尔® 以太网连接 I219-LM](https://ark.intel.com/content/www/cn/zh/ark/products/82185/intel-ethernet-connection-i219-lm.html)
