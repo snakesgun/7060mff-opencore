@@ -51,5 +51,10 @@ mv AppleALC.kext ./X64/EFI/OC/Kexts/
 wget https://github.com/acidanthera/IntelMausi/releases/download/1.0.7/IntelMausi-1.0.7-RELEASE.zip
 unzip IntelMausi-1.0.7-RELEASE.zip
 
-
 mv IntelMausi.kext ./X64/EFI/OC/Kexts/
+
+# ----------
+wget https://github.com/OpenIntelWireless/itlwm/releases/download/v2.0.0/itlwm_v2.0.0_stable.kext.zip
+unzip itlwm_v2.0.0_stable.kext.zip
+
+mv itlwm.kext ./X64/EFI/OC/Kexts/
