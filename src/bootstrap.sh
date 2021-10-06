@@ -46,3 +46,10 @@ wget https://github.com/acidanthera/AppleALC/releases/download/1.6.5/AppleALC-1.
 unzip AppleALC-1.6.5-RELEASE.zip
 
 mv AppleALC.kext ./X64/EFI/OC/Kexts/
+
+# ----------
+wget https://github.com/acidanthera/IntelMausi/releases/download/1.0.7/IntelMausi-1.0.7-RELEASE.zip
+unzip IntelMausi-1.0.7-RELEASE.zip
+
+
+mv IntelMausi.kext ./X64/EFI/OC/Kexts/
