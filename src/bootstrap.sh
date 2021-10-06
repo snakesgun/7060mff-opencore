@@ -34,3 +34,9 @@ wget https://github.com/acidanthera/Lilu/releases/download/1.5.6/Lilu-1.5.6-RELE
 nzip Lilu-1.5.6-RELEASE.zip
 
 mv Lilu.kext ./X64/EFI/OC/Kexts/
+
+# ----------
+wget https://github.com/acidanthera/WhateverGreen/releases/download/1.5.4/WhateverGreen-1.5.4-RELEASE.zip
+unzip WhateverGreen-1.5.4-RELEASE.zip
+
+mv WhateverGreen.kext  ./X64/EFI/OC/Kexts/
