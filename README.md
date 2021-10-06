@@ -6,6 +6,7 @@
 `VirtualSMC` | `1.2.2` | `1.2.7`
 `Lilu` | `1.5.2` | `1.5.6`
 `WhateverGreen` | `1.4.9` | `1.5.4`
+`AppleALC` | `1.5.9` | `1.6.5`
 
 ## Ref
 

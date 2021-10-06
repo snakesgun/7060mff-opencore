@@ -40,3 +40,9 @@ wget https://github.com/acidanthera/WhateverGreen/releases/download/1.5.4/Whatev
 unzip WhateverGreen-1.5.4-RELEASE.zip
 
 mv WhateverGreen.kext  ./X64/EFI/OC/Kexts/
+
+# ----------
+wget https://github.com/acidanthera/AppleALC/releases/download/1.6.5/AppleALC-1.6.5-RELEASE.zip
+unzip AppleALC-1.6.5-RELEASE.zip
+
+mv AppleALC.kext ./X64/EFI/OC/Kexts/
