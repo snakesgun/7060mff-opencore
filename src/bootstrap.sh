@@ -58,3 +58,9 @@ wget https://github.com/OpenIntelWireless/itlwm/releases/download/v2.0.0/itlwm_v
 unzip itlwm_v2.0.0_stable.kext.zip
 
 mv itlwm.kext ./X64/EFI/OC/Kexts/
+
+# ----------
+wget https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/v2.0.1/IntelBluetoothFirmware-v2.0.1.zip
+unzip IntelBluetoothFirmware-v2.0.1.zip
+
+mv IntelBluetoothFirmware-v2.0.1/IntelBluetoothFirmware.kext ./X64/EFI/OC/Kexts/

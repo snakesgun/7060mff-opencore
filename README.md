@@ -9,6 +9,7 @@
 `AppleALC` | `1.5.9` | `1.6.5`
 `IntelMausi` | `1.0.5` | `1.0.7`
 `itlwm` | `1.3.0` | `2.0.0` | [`HeliPort.dmg`](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.4.1/HeliPort.dmg)
+`IntelBluetoothFirmware` | `1.1.2` | `2.0.1`
 
 ## Ref
 
