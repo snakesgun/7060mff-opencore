@@ -64,3 +64,9 @@ wget https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/downlo
 unzip IntelBluetoothFirmware-v2.0.1.zip
 
 mv IntelBluetoothFirmware-v2.0.1/IntelBluetoothFirmware.kext ./X64/EFI/OC/Kexts/
+
+# ----------
+wget https://github.com/acidanthera/NVMeFix/releases/download/1.0.9/NVMeFix-1.0.9-RELEASE.zip
+unzip NVMeFix-1.0.9-RELEASE.zip
+ 
+mv NVMeFix.kext ./X64/EFI/OC/Kexts/
