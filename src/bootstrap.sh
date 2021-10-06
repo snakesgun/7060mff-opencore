@@ -29,3 +29,8 @@ mv ./Kexts/VirtualSMC.kext ./X64/EFI/OC/Kexts/
 mv ./Kexts/SMCProcessor.kext ./X64/EFI/OC/Kexts/
 mv ./Kexts/SMCSuperIO.kext ./X64/EFI/OC/Kexts/
 
+# ----------
+wget https://github.com/acidanthera/Lilu/releases/download/1.5.6/Lilu-1.5.6-RELEASE.zip
+nzip Lilu-1.5.6-RELEASE.zip
+
+mv Lilu.kext ./X64/EFI/OC/Kexts/
