@@ -19,3 +19,13 @@ rm ./X64/EFI/OC/Drivers/OpenCanopy.efi
 rm ./X64/EFI/OC/Drivers/UsbMouseDxe.efi
 rm ./X64/EFI/OC/Drivers/XhciDxe.efi
 
+# ----------
+# @TODO: SMCDellSensors.kext
+
+wget https://github.com/acidanthera/VirtualSMC/releases/download/1.2.7/VirtualSMC-1.2.7-RELEASE.zip
+unzip VirtualSMC-1.2.7-RELEASE.zip
+
+mv ./Kexts/VirtualSMC.kext ./X64/EFI/OC/Kexts/
+mv ./Kexts/SMCProcessor.kext ./X64/EFI/OC/Kexts/
+mv ./Kexts/SMCSuperIO.kext ./X64/EFI/OC/Kexts/
+
